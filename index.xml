@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kernel Security, Isolation, and Verification (KISV) Workshop on KISV Workshop</title>
+    <link>https://kisv-workshop.github.io/</link>
+    <description>Recent content in Kernel Security, Isolation, and Verification (KISV) Workshop on KISV Workshop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://kisv-workshop.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Call for Papers</title>
+      <link>https://kisv-workshop.github.io/cfp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kisv-workshop.github.io/cfp/</guid>
+      <description>This workshop is collocated with SOSP&#39;2023.
+Summary of topics This workshop will bring together researchers and developers from the field of operating systems, programming languages, security, computer architecture and verification with the goal to accelerate changes in the kernel through a combination of isolation, programming language safety, and formal verification.
+The objectives of the workshop are:
+Identify the challenges and opportunities in using hardware support for kernel isolation, safe programming languages like Rust, and automated verification tools like Dafny within the kernel environment.</description>
+      <content:encoded><![CDATA[<p>This workshop is collocated with <a href="https://sosp2023.mpi-sws.org/">SOSP'2023</a>.</p>
+<h2 id="summary-of-topics">Summary of topics</h2>
+<hr>
+<p>This workshop will bring together researchers and developers from the field of
+operating systems, programming languages, security, computer architecture and
+verification with the goal to accelerate changes in the kernel through a
+combination of isolation, programming language safety, and formal verification.</p>
+<p>The objectives of the workshop are:</p>
+<ul>
+<li>
+<p>Identify the challenges and opportunities in using hardware support for
+kernel isolation, safe programming languages like Rust, and automated
+verification tools like Dafny within the kernel environment.</p>
+</li>
+<li>
+<p>Understand advantages and limitatins of modern hardware isolation mechanisms,
+such as ARM memory tagging extensions (MTE), ARM pointer authentication (PAC),
+Intel memory protection keys (MPK), etc.</p>
+</li>
+<li>
+<p>Identify potential directions for the next generation of hardware isolation
+mechanisms.</p>
+</li>
+<li>
+<p>Identify performance and ergonomic limitations of safe programming languages
+like Rust for development of kernel subsystems.</p>
+</li>
+<li>
+<p>Discuss opportunities and limitations of modern autmated verification tools
+and their applicability for modeling and verifying kernel subsystems.</p>
+</li>
+<li>
+<p>Discuss the practical aspects of isolating kernel subsystems and developing
+parts of the kernel in a safe program- ming language.</p>
+</li>
+<li>
+<p>Identify security limitations of isolation and safety.</p>
+</li>
+</ul>
+<p>Suggested paper topics include, but are not restricted to:</p>
+<ul>
+<li>
+<p>Low-overhead, fine-grained isolation techniques</p>
+</li>
+<li>
+<p>Static analysis and programming language techniques aimed at automation of
+isolation</p>
+</li>
+<li>
+<p>Hardware support for hardware-based address space isoaltion and software
+fault isolation (SFI)</p>
+</li>
+<li>
+<p>Security and performance analysis of modern hardware isolation primitives and
+safe programming languages</p>
+</li>
+<li>
+<p>Implementation of kernel subsystems in safe programming languages</p>
+</li>
+<li>
+<p>Programming language support for the kernel</p>
+</li>
+<li>
+<p>Verification of kernel subsystems</p>
+</li>
+<li>
+<p>Formal techniques for modeling kernel subsystems and hardware interfaces</p>
+</li>
+<li>
+<p>Verification tools aimed at support of low-level systems code</p>
+</li>
+</ul>
+<p>We welcome submissions of original research papers, position papers, and
+experience reports. Submissions must be in PDF format and should not exceed 6
+pages (excluding references). They will be reviewed by the workshop program
+committee and designated external reviewers. Papers will be evaluated based on
+technical quality, originality, relevance, and presentation.</p>
+<p>By default, accepted papers will be published electronically in the ACM Digital
+Library.</p>
+<h2 id="relevance-to-sosp-attendees">Relevance to SOSP attendees</h2>
+<p>SOSP conference brings together kernel practitioners—people of diverse academic
+and industrial background who are united by the goal to build better operating
+system kernels. We believe that today as a community we lack a workshop that
+focuses on the very core problems of kernel organization: isolation, safety,
+security. We hope that a focused workshop can accelerate exchange of ideas in
+the areas that arguably can result in better foundation for the systems we run
+today: practical isolation, safety, and verification of the kernel.</p>
+<h3 id="important-dates">Important dates</h3>
+<ul>
+<li>
+<p>Paper submission deadline: <strong>August 1, 2023</strong></p>
+</li>
+<li>
+<p>Notification of acceptance: <strong>September 1, 2023</strong></p>
+</li>
+<li>
+<p>Camera-ready papers due: <strong>October 1, 2023</strong></p>
+</li>
+<li>
+<p>Workshop date: <strong>October 23, 2023</strong></p>
+</li>
+</ul>
+<p>The workshop will be a highly interactive event with an agenda designed to
+promote focused and lively discussions. The set of accepted papers will be made
+available to registered attendees in advance of the workshop. We plan a half-
+day event.</p>
+<p>In case we have to switch to a virtual format we plan on having a Zoom
+conference with recorded presentations, but live Q&amp;A sessions following each
+talk. We plan to have online social events before and after the workshop to
+provide attendees with a chance to socialize and exchange ideas.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Organizers</title>
+      <link>https://kisv-workshop.github.io/organizers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kisv-workshop.github.io/organizers/</guid>
+      <description>Anton Burtsev (primary contact) is an Assistant Professor at the School of Computing, University of Utah. Anton is a systems researcher whose work explores design and architecture of operating systems in the age of targeted security attacks, heterogeneous hardware, and datacenter-scale computing. Anton received his PhD from the University of Utah, and spent six years as a faculty at the University of California, Irvine before joining the University of Utah. Contact him at aburtsev (at) cs.</description>
+      <content:encoded><![CDATA[<p><strong>Anton Burtsev</strong> (primary contact) is an Assistant Professor at the School of
+Computing, University of Utah. Anton is a systems researcher whose work
+explores design and architecture of operating systems in the age of targeted
+security attacks, heterogeneous hardware, and datacenter-scale computing. Anton
+received his PhD from the University of Utah, and spent six years as a faculty
+at the University of California, Irvine before joining the University of Utah.
+Contact him at aburtsev (at) cs.utah.edu</p>
+<p><strong>Vikram Narayanan</strong> is a Ph.D candidate at the University of Utah. His
+research interests include operating sys- tem and security. He received his
+master’s in computer science from the University of Saarland. Contact him at
+vikram (at) cs.utah.edu.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Program</title>
+      <link>https://kisv-workshop.github.io/program/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kisv-workshop.github.io/program/</guid>
+      <description>TBD</description>
+      <content:encoded><![CDATA[<p>TBD</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Program Committee</title>
+      <link>https://kisv-workshop.github.io/pc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kisv-workshop.github.io/pc/</guid>
+      <description>TBD</description>
+      <content:encoded><![CDATA[<p>TBD</p>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>

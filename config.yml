@@ -15,22 +15,14 @@ menu:
       name: Home
       url: /
       weight: 10
-    - identifier: cfp
-      name: Call for Papers
-      url: /cfp
-      weight: 20
     - identifier: organizers
       name: Organizers
       url: /organizers
-      weight: 30
-    - identifier: pc
-      name: Program Committee
-      url: /pc
-      weight: 40
+      weight: 20
     - identifier: program
       name: Program
       url: /program
-      weight: 50
+      weight: 30
 
 # Allow raw HTML in content
 markup:

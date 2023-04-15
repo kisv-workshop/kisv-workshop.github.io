@@ -4,7 +4,7 @@ title: Kernel Security, Isolation, and Verification (KISV) Workshop
 
 # About the workshop
 
-Our goal is to bring together researchers and developers from the field of
+This workshop aims to bring together researchers and developers from the field of
 operating systems, programming languages, security, computer architecture and
 verification with the goal to accelerate changes in the kernel through a
 combination of isolation, programming language safety, and formal verification.

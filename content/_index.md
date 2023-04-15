@@ -72,7 +72,7 @@ Submissions must not be more than six (6) pages in length, using 10-point font.
 The bibliography does not count towards the page limit. The page limit will be
 strictly enforced. They will be reviewed by the workshop program committee and
 designated external reviewers. Papers will be evaluated based on technical
-quality, originality, relevance, and presentation. The submission website is:
+quality, originality, relevance, and presentation. **The submission website is**:
 [https://kisv23.hotcrp.com](https://kisv23.hotcrp.com).
 
 By default, accepted papers will be published electronically in the ACM Digital

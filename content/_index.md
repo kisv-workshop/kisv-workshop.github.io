@@ -2,31 +2,9 @@
 title: Kernel Security, Isolation, and Verification (KISV) Workshop
 ---
 
-# Workshop on Kernel Isolation, Safety and Verification (KISV) 2023
+# About the workshop
 
-Despite numerous ways in how the use of computer systems has evolved over the
-last decades, the software engineering technology behind the very core of the
-systems stack—an operating system kernel—remains unchanged since early computer
-systems. Modern kernels are still developed with a legacy software engineering
-techniques—a combination of an unsafe programming language, monolithic
-architecture, and minimal testing or verification tools. Today these systems
-are faulty and vulnerable. Yet we cannot abandon these systems due to decades
-of design and engineering wisdom they accumulate.
-
-Fortunately, recent advances in low-overhead hardware-isolation mechanisms,
-practical language safety, and auto- mated reasoning using satisfiability
-modulo theories (SMT) provide an opportunity to gradually evolve commodity
-monolithic kernels towards more secure and reliable systems in which parts of
-the kernel execute in isolation, are implemented in safe programming languages,
-and are accompanied with formal correctness proofs.
-
-# Call for Papers
-
-This workshop is collocated with [SOSP'2023](https://sosp2023.mpi-sws.org/).
-
-## Summary of topics
----
-This workshop will bring together researchers and developers from the field of
+Our goal is to bring together researchers and developers from the field of
 operating systems, programming languages, security, computer architecture and
 verification with the goal to accelerate changes in the kernel through a
 combination of isolation, programming language safety, and formal verification.
@@ -56,6 +34,7 @@ Intel memory protection keys (MPK), etc.
 * Identify security limitations of isolation and safety.
 
 Suggested paper topics include, but are not restricted to:
+
 * Low-overhead, fine-grained isolation techniques
 
 * Static analysis and programming language techniques aimed at automation of
@@ -77,26 +56,37 @@ Suggested paper topics include, but are not restricted to:
 
 * Verification tools aimed at support of low-level systems code
 
+
+# Call for Papers
+
 We welcome submissions of original research papers, position papers, and
-experience reports. Submissions must be in PDF format and should not exceed 6
-pages (excluding references). They will be reviewed by the workshop program
-committee and designated external reviewers. Papers will be evaluated based on
-technical quality, originality, relevance, and presentation.
+experience reports.
+
+All papers must be written in English and should be formatted in the two-column
+[ACM article style](https://www.acm.org/publications/proceedings-template/),
+using the options "sigplan,anonymous,10pt"). The CCS Concepts, Keywords, and
+ACM Reference Format sections are not required in submissions. Submissions are
+double blind: author names and affiliations should not be included.
+
+Submissions must not be more than six (6) pages in length, using 10-point font.
+The bibliography does not count towards the page limit. The page limit will be
+strictly enforced. They will be reviewed by the workshop program committee and
+designated external reviewers. Papers will be evaluated based on technical
+quality, originality, relevance, and presentation. The submission website is:
+[https://kisv23.hotcrp.com](https://kisv23.hotcrp.com).
 
 By default, accepted papers will be published electronically in the ACM Digital
-Library.
+Library. The authors of accepted papers to be included in the ACM Digital
+Library will be required to sign ACM copyright release forms. The publication
+of a paper in the KISV workshop proceedings is not intended to replace future
+conference publication. 
 
-## Relevance to SOSP attendees
-SOSP conference brings together kernel practitioners—people of diverse academic
-and industrial background who are united by the goal to build better operating
-system kernels. We believe that today as a community we lack a workshop that
-focuses on the very core problems of kernel organization: isolation, safety,
-security. We hope that a focused workshop can accelerate exchange of ideas in
-the areas that arguably can result in better foundation for the systems we run
-today: practical isolation, safety, and verification of the kernel.
+## Important dates
 
-### Important dates
-* Paper submission deadline: **August 1, 2023**
+The workshop is collocated with [SOSP'2023](https://sosp2023.mpi-sws.org/).
+Registration is handled via [SOSP'2023](https://sosp2023.mpi-sws.org/) website.
+
+* Paper submission deadline: **August 1, 2023** (AoE)
 
 * Notification of acceptance: **September 1, 2023**
 
@@ -106,10 +96,5 @@ today: practical isolation, safety, and verification of the kernel.
 
 The workshop will be a highly interactive event with an agenda designed to
 promote focused and lively discussions. The set of accepted papers will be made
-available to registered attendees in advance of the workshop. We plan a half-
-day event.
+available to registered attendees in advance of the workshop. 
 
-In case we have to switch to a virtual format we plan on having a Zoom
-conference with recorded presentations, but live Q&A sessions following each
-talk. We plan to have online social events before and after the workshop to
-provide attendees with a chance to socialize and exchange ideas.

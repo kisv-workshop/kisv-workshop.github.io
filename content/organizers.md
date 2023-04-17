@@ -6,21 +6,22 @@ ShowReadingTime: false
 ShowBreadCrumbs: false
 ---
 
-**Anton Burtsev**, University of Utah, USA
+**Anton Burtsev**, University of Utah
 
-**Vikram Narayanan**, University of Utah, USA
+**Vikram Narayanan**, University of Utah
 
 ## Program Committee
 
-Nathan Dautenhahn, Rice University, USA
+Nathan Dautenhahn, Rice University
 
-Pierre Olivier, University of Manchester, UK
+Trent Jaeger, Pennsylvania State University
 
-Ruslan Nikolaev, Pennsylvania State University, USA
+Shravan Narayan, University of Texas, Austin
 
-Shravan Narayan, University of Texas, Austin, USA
+Ruslan Nikolaev, Pennsylvania State University
 
-Trent Jaeger, Pennsylvania State University, USA
+Pierre Olivier, University of Manchester
 
+Gerd Zellweger, VMware Research
 ...
 

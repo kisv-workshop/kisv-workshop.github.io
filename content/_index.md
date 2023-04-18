@@ -2,7 +2,7 @@
 title: Kernel Security, Isolation, and Verification (KISV) Workshop
 ---
 
-# About the workshop
+# Workshop on Kernel Isolation, Safety and Verification (KISV) 2023
 
 This workshop aims to bring together researchers and developers from the field of
 operating systems, programming languages, security, computer architecture and

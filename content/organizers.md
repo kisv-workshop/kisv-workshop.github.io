@@ -25,5 +25,3 @@ Ruslan Nikolaev, Pennsylvania State University
 Pierre Olivier, University of Manchester
 
 Gerd Zellweger, VMware Research
-...
-

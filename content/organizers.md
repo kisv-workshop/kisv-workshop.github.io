@@ -12,6 +12,8 @@ ShowBreadCrumbs: false
 
 ## Program Committee
 
+Nathan Burow, MIT Lincoln Laboratory
+
 Nathan Dautenhahn, Rice University
 
 Trent Jaeger, Pennsylvania State University

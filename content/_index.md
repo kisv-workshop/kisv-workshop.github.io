@@ -86,11 +86,11 @@ conference publication.
 The workshop is collocated with [SOSP'2023](https://sosp2023.mpi-sws.org/).
 Registration is handled via [SOSP'2023](https://sosp2023.mpi-sws.org/) website.
 
-* Paper submission deadline: **August 1, 2023** (AoE)
+* Paper submission deadline: ~~**August 1, 2023**~~ **August 16, 2023** (AoE)
 
-* Notification of acceptance: **September 1, 2023**
+* Notification of acceptance: ~~**September 1, 2023**~~ **September 15, 2023**
 
-* Camera-ready papers due: **October 1, 2023**
+* Camera-ready papers due: ~~**October 1, 2023**~~ **October 8, 2023**
 
 * Workshop date: **October 23, 2023**
 

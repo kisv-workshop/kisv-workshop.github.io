@@ -51,7 +51,7 @@ Gerd Zellweger, VMware Research</description>
 (Microsoft). <strong>Verus: Fast Formal Verification of Rust Programs Using
 Ownership and Automated Theorem Proving.</strong></li>
 </ul>
-<p><strong>Section 1: Operating Systems</strong></p>
+<p><strong><p style="text-align: center;">Section 1: Operating Systems</p></strong></p>
 <ul>
 <li>
 <p><strong>09:35 - 09:55</strong>    <strong>Leveraging Rust for Lightweight OS
@@ -64,11 +64,9 @@ Verified Kernels in Rust.</strong> Xiangdong Chen (University of Utah), Zhaofeng
 (University of Utah), Vikram Narayanan (University of Utah), Anton Burtsev
 (University of Utah)</p>
 </li>
-<li>
-<p><strong>10:15 - 10:40</strong>    Coffee break</p>
-</li>
 </ul>
-<p><strong>Section 2: Hardware</strong></p>
+<p><strong><p style="text-align: center;">10:15 - 10:40    Coffee break</p></strong></p>
+<p><strong><p style="text-align: center;">Section 2: Hardware</p></strong></p>
 <ul>
 <li>
 <p><strong>10:40 - 11:00</strong>    <strong>Specifying the de-facto OS of a
@@ -82,7 +80,7 @@ Hardware Security Modules.</strong> Anish Athalye (MIT), Frans Kaashoek (MIT),
 Nickolai Zeldovich (MIT), Joseph  Tassarotti (New York University)</p>
 </li>
 </ul>
-<p><strong>Section 3: Secure Interfaces</strong></p>
+<p><strong><p style="text-align: center;">Section 3: Secure Interfaces</p></strong></p>
 <ul>
 <li>
 <p><strong>11:20 - 11:40</strong>    <strong>CIVSCOPE: Analyzing Potential

@@ -2,7 +2,38 @@
 title: Kernel Security, Isolation, and Verification (KISV) Workshop
 ---
 
-# Workshop on Kernel Isolation, Safety and Verification (KISV) 2023
+# 1st Workshop on Kernel Isolation, Safety and Verification (KISV) 2023
+
+<style>
+.box {
+    -webkit-border-radius: 0.5em;
+    -moz-border-radius: 0.5em;
+    border-radius: 0.5em;
+    background-color: #f0f0f0;
+    padding: 1em;
+    margin-right: 1em;
+}
+
+.important {
+    text-align: center;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    line-height: 120%;
+    font-size: 100%;
+    margin: 0 auto;
+}
+
+.width50 {
+    width: 70%;
+}
+</style>
+
+<div class="important box width50">
+    <b>October 23, 2023<br>
+    Koblenz, Germany<br><br></b>
+    In conjunction with the<br>
+    <a href="https://sosp2023.mpi-sws.org/">29th ACM Symposium on Operating Systems Principles (SOSP '23)</a>
+</div>
 
 This workshop aims to bring together researchers and developers from the field of
 operating systems, programming languages, security, computer architecture and

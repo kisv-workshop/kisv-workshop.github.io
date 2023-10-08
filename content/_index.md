@@ -2,7 +2,7 @@
 title: Kernel Security, Isolation, and Verification (KISV) Workshop
 ---
 
-# 1st Workshop on Kernel Isolation, Safety and Verification (KISV) 2023
+# 1st Workshop on Kernel Isolation, Safety and Verification (KISV 2023)
 
 <style>
 .box {

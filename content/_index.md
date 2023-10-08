@@ -6,12 +6,13 @@ title: Kernel Security, Isolation, and Verification (KISV) Workshop
 
 <style>
 .box {
-    -webkit-border-radius: 0.5em;
-    -moz-border-radius: 0.5em;
     border-radius: 0.5em;
     background-color: #f0f0f0;
-    padding: 1em;
-    margin-right: 1em;
+}
+
+.dark .box {
+    border-radius: 0.5em;
+    background-color: #202325;
 }
 
 .important {

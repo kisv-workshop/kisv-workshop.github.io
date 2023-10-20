@@ -6,6 +6,13 @@ ShowReadingTime: false
 ShowBreadCrumbs: false
 ---
 
+<center>
+The complete <b><a href="https://dl.acm.org/doi/proceedings/10.1145/3625275">
+workshop
+proceedings</a></b> are available
+in the ACM DL.
+</center>
+
 *October 23, 2023*
 
 * **08:30 - 08:35**&nbsp;&nbsp;&nbsp;&nbsp;Opening remarks

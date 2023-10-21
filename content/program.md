@@ -6,12 +6,38 @@ ShowReadingTime: false
 ShowBreadCrumbs: false
 ---
 
-<center>
+<style>
+.box {
+    border-radius: 0.5em;
+    background-color: #f0f0f0;
+}
+
+.dark .box {
+    border-radius: 0.5em;
+    background-color: #202325;
+}
+
+.important {
+    text-align: center;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    line-height: 120%;
+    font-size: 100%;
+    margin: 0 auto;
+}
+
+.width50 {
+    width: 90%;
+}
+</style>
+
+
+<div class="important box width50">
 The complete <b><a href="https://dl.acm.org/doi/proceedings/10.1145/3625275">
 workshop
 proceedings</a></b> are available
 in the ACM DL.
-</center>
+</div>
 
 *October 23, 2023*
 

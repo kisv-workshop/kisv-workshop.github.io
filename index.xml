@@ -41,7 +41,7 @@ Gerd Zellweger, VMware Research</description>
       
       <guid>https://kisv-workshop.github.io/program/</guid>
       <description>The complete workshop proceedings are available in the ACM DL. October 23, 2023
-08:30 - 08:35 Opening remarks 08:35 - 09:35 Keynote by Chris Hawblitzel (Microsoft). Verus: Fast Formal Verification of Rust Programs Using Ownership and Automated Theorem Proving. Section 1: Operating Systems
+08:30 - 08:35 Opening remarks 08:35 - 09:35 Keynote by Chris Hawblitzel (Microsoft). Verus: Fast Formal Verification of Rust Programs Using Ownership and Automated Theorem Proving. Session 1: Operating Systems
 09:35 - 09:55 Leveraging Rust for Lightweight OS Correctness. Ramla Ijaz (Yale University), Kevin Boos (Theseus Systems), Lin Zhong (Yale University)
 09:55 - 10:15 Atmosphere: Towards Practical Verified Kernels in Rust.</description>
       <content:encoded><![CDATA[<style>
@@ -81,7 +81,7 @@ in the ACM DL.
 (Microsoft). <strong>Verus: Fast Formal Verification of Rust Programs Using
 Ownership and Automated Theorem Proving.</strong></li>
 </ul>
-<p><strong><p style="text-align: center;">Section 1: Operating Systems</p></strong></p>
+<p><strong><p style="text-align: center;">Session 1: Operating Systems</p></strong></p>
 <ul>
 <li>
 <p><strong>09:35 - 09:55</strong>    <strong>Leveraging Rust for Lightweight OS
@@ -96,7 +96,7 @@ Verified Kernels in Rust.</strong> Xiangdong Chen (University of Utah), Zhaofeng
 </li>
 </ul>
 <p><strong><p style="text-align: center;">10:15 - 10:40    Coffee break</p></strong></p>
-<p><strong><p style="text-align: center;">Section 2: Hardware</p></strong></p>
+<p><strong><p style="text-align: center;">Session 2: Hardware</p></strong></p>
 <ul>
 <li>
 <p><strong>10:40 - 11:00</strong>    <strong>Specifying the de-facto OS of a
@@ -110,7 +110,7 @@ Hardware Security Modules.</strong> Anish Athalye (MIT), Frans Kaashoek (MIT),
 Nickolai Zeldovich (MIT), Joseph  Tassarotti (New York University)</p>
 </li>
 </ul>
-<p><strong><p style="text-align: center;">Section 3: Secure Interfaces</p></strong></p>
+<p><strong><p style="text-align: center;">Session 3: Secure Interfaces</p></strong></p>
 <ul>
 <li>
 <p><strong>11:20 - 11:40</strong>    <strong>CIVSCOPE: Analyzing Potential

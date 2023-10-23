@@ -46,7 +46,7 @@ in the ACM DL.
   (Microsoft). **Verus: Fast Formal Verification of Rust Programs Using
   Ownership and Automated Theorem Proving.**
 
-**<p style="text-align: center;">Section 1: Operating Systems</p>**
+**<p style="text-align: center;">Session 1: Operating Systems</p>**
 
 * **09:35 - 09:55**&nbsp;&nbsp;&nbsp;&nbsp;**Leveraging Rust for Lightweight OS
   Correctness.** Ramla Ijaz (Yale University), Kevin Boos (Theseus Systems),
@@ -59,7 +59,7 @@ in the ACM DL.
 
  **<p style="text-align: center;">10:15 - 10:40&nbsp;&nbsp;&nbsp;&nbsp;Coffee break</p>**
 
-**<p style="text-align: center;">Section 2: Hardware</p>**
+**<p style="text-align: center;">Session 2: Hardware</p>**
 
 * **10:40 - 11:00**&nbsp;&nbsp;&nbsp;&nbsp;**Specifying the de-facto OS of a
   production SoC.** Ben Fiedler (ETH Zurich), Roman Meier (ETH Zurich), Jasmin
@@ -70,7 +70,7 @@ in the ACM DL.
   Hardware Security Modules.** Anish Athalye (MIT), Frans Kaashoek (MIT),
   Nickolai Zeldovich (MIT), Joseph  Tassarotti (New York University)
 
-**<p style="text-align: center;">Section 3: Secure Interfaces</p>**
+**<p style="text-align: center;">Session 3: Secure Interfaces</p>**
 
 * **11:20 - 11:40**&nbsp;&nbsp;&nbsp;&nbsp;**CIVSCOPE: Analyzing Potential
   Memory Corruption Bugs in Compartment Interfaces by Establishing Lower Bound

@@ -48,38 +48,41 @@ in the ACM DL.
 
 **<p style="text-align: center;">Session 1: Operating Systems</p>**
 
-* **09:35 - 09:55**&nbsp;&nbsp;&nbsp;&nbsp;**Leveraging Rust for Lightweight OS
-  Correctness.** Ramla Ijaz (Yale University), Kevin Boos (Theseus Systems),
-  Lin Zhong (Yale University)
+* **09:35 - 09:55**&nbsp;&nbsp;&nbsp;&nbsp;**[Leveraging Rust for Lightweight
+  OS Correctness](https://dl.acm.org/doi/10.1145/3625275.3625398).** Ramla Ijaz
+  (Yale University), Kevin Boos (Theseus Systems), Lin Zhong (Yale University)
 
-* **09:55 - 10:15**&nbsp;&nbsp;&nbsp;&nbsp;**Atmosphere: Towards Practical
-  Verified Kernels in Rust.** Xiangdong Chen (University of Utah), Zhaofeng Li
-  (University of Utah), Vikram Narayanan (University of Utah), Anton Burtsev
-  (University of Utah)
+* **09:55 - 10:15**&nbsp;&nbsp;&nbsp;&nbsp;**[Atmosphere: Towards Practical
+  Verified Kernels in Rust](https://dl.acm.org/doi/10.1145/3625275.3625401).**
+  Xiangdong Chen (University of Utah), Zhaofeng Li (University of Utah), Vikram
+  Narayanan (University of Utah), Anton Burtsev (University of Utah)
 
- **<p style="text-align: center;">10:15 - 10:40&nbsp;&nbsp;&nbsp;&nbsp;Coffee break</p>**
+**<p style="text-align: center;">10:15 - 10:40&nbsp;&nbsp;&nbsp;&nbsp;Coffee break</p>**
 
 **<p style="text-align: center;">Session 2: Hardware</p>**
 
-* **10:40 - 11:00**&nbsp;&nbsp;&nbsp;&nbsp;**Specifying the de-facto OS of a
-  production SoC.** Ben Fiedler (ETH Zurich), Roman Meier (ETH Zurich), Jasmin
-  Schult (ETH   Zurich), Daniel Schwyn (ETH Zurich), Timothy Roscoe (ETH
-  Zurich)
+* **10:40 - 11:00**&nbsp;&nbsp;&nbsp;&nbsp;**[Specifying the de-facto OS of a
+  production SoC](https://dl.acm.org/doi/10.1145/3625275.3625400).** Ben
+  Fiedler (ETH Zurich), Roman Meier (ETH Zurich), Jasmin Schult (ETH   Zurich),
+  Daniel Schwyn (ETH Zurich), Timothy Roscoe (ETH Zurich)
 
-* **11:00 - 11:20**&nbsp;&nbsp;&nbsp;&nbsp;**The K2 Architecture for Modular
-  Hardware Security Modules.** Anish Athalye (MIT), Frans Kaashoek (MIT),
-  Nickolai Zeldovich (MIT), Joseph  Tassarotti (New York University)
+* **11:00 - 11:20**&nbsp;&nbsp;&nbsp;&nbsp;**[The K2 Architecture for Modular
+  Hardware Security Modules](https://dl.acm.org/doi/10.1145/3625275.3625402).**
+  Anish Athalye (MIT), Frans Kaashoek (MIT), Nickolai Zeldovich (MIT), Joseph
+  Tassarotti (New York University)
 
 **<p style="text-align: center;">Session 3: Secure Interfaces</p>**
 
-* **11:20 - 11:40**&nbsp;&nbsp;&nbsp;&nbsp;**CIVSCOPE: Analyzing Potential
+* **11:20 - 11:40**&nbsp;&nbsp;&nbsp;&nbsp;**[CIVSCOPE: Analyzing Potential
   Memory Corruption Bugs in Compartment Interfaces by Establishing Lower Bound
-  and Upper Bound.** Yi Chien (Rice University), Vlad-Andrei Bădoiu (University
-  Politehnica of Bucharest), Yudi Yang (Rice University), Yuqian Huo (Rice
-  University), Kelly Kaoudis (Trail of Bits), Hugo Lefeuvre (The University of
-  Manchester), Pierre Olivier (The University of Manchester), Nathan Dautenhahn
-  (Rice University) 
+  and Upper Bound](https://dl.acm.org/doi/10.1145/3625275.3625399).** Yi Chien
+  (Rice University), Vlad-Andrei Bădoiu (University Politehnica of Bucharest),
+  Yudi Yang (Rice University), Yuqian Huo (Rice University), Kelly Kaoudis
+  (Trail of Bits), Hugo Lefeuvre (The University of Manchester), Pierre Olivier
+  (The University of Manchester), Nathan Dautenhahn (Rice University)
 
-* **11:40 - 12:00**&nbsp;&nbsp;&nbsp;&nbsp;**Encapsulated Functions: Fortifying
-  Rust’s FFI in Embedded Systems.** Leon Schuermann (Princeton University),
-  Amit Levy (Princeton University), Arun Thomas (zeroRISC Inc.)
+* **11:40 - 12:00**&nbsp;&nbsp;&nbsp;&nbsp;**[Encapsulated Functions:
+  Fortifying Rust’s FFI in Embedded
+  Systems](https://dl.acm.org/doi/10.1145/3625275.3625397).** Leon Schuermann
+  (Princeton University), Amit Levy (Princeton University), Arun Thomas
+  (zeroRISC Inc.)

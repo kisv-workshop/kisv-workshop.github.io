@@ -23,6 +23,10 @@ menu:
       name: Program
       url: /program
       weight: 30
+    - identifier: archive
+      name: Archives
+      url: /archive
+      weight: 40
 
 # Allow raw HTML in content
 markup:

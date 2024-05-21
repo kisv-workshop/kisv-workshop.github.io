@@ -8,20 +8,8 @@ ShowBreadCrumbs: false
 
 **Anton Burtsev**, University of Utah
 
-**Vikram Narayanan**, University of Utah
+**Vikram Narayanan**
 
 ## Program Committee
 
-Nathan Burow, MIT Lincoln Laboratory
-
-Nathan Dautenhahn, Rice University
-
-Trent Jaeger, Pennsylvania State University
-
-Shravan Narayan, University of Texas, Austin
-
-Ruslan Nikolaev, Pennsylvania State University
-
-Pierre Olivier, University of Manchester
-
-Gerd Zellweger, VMware Research
+TBD

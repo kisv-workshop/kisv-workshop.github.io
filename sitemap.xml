@@ -2,13 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://kisv-workshop.github.io/archive/2023/</loc>
+  </url><url>
     <loc>https://kisv-workshop.github.io/categories/</loc>
+  </url><url>
+    <loc>https://kisv-workshop.github.io/archive/</loc>
   </url><url>
     <loc>https://kisv-workshop.github.io/</loc>
   </url><url>
     <loc>https://kisv-workshop.github.io/organizers/</loc>
   </url><url>
+    <loc>https://kisv-workshop.github.io/archive/2023/organizers/</loc>
+  </url><url>
     <loc>https://kisv-workshop.github.io/program/</loc>
+  </url><url>
+    <loc>https://kisv-workshop.github.io/archive/2023/program/</loc>
   </url><url>
     <loc>https://kisv-workshop.github.io/tags/</loc>
   </url>

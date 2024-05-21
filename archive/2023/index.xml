@@ -1,27 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Kernel Security, Isolation, and Verification (KISV) Workshop on KISV Workshop</title>
-    <link>https://kisv-workshop.github.io/</link>
-    <description>Recent content in Kernel Security, Isolation, and Verification (KISV) Workshop on KISV Workshop</description>
+    <title>1st Workshop on Kernel Isolation, Safety and Verification (KISV 2023) on KISV Workshop</title>
+    <link>https://kisv-workshop.github.io/archive/2023/</link>
+    <description>Recent content in 1st Workshop on Kernel Isolation, Safety and Verification (KISV 2023) on KISV Workshop</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://kisv-workshop.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Organizers</title>
-      <link>https://kisv-workshop.github.io/organizers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kisv-workshop.github.io/organizers/</guid>
-      <description>Anton Burtsev, University of Utah
-Vikram Narayanan
-Program Committee TBD</description>
-      <content:encoded><![CDATA[<p><strong>Anton Burtsev</strong>, University of Utah</p>
-<p><strong>Vikram Narayanan</strong></p>
-<h2 id="program-committee">Program Committee</h2>
-<p>TBD</p>
-]]></content:encoded>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://kisv-workshop.github.io/archive/2023/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Organizers (2023)</title>
       <link>https://kisv-workshop.github.io/archive/2023/organizers/</link>
@@ -47,41 +31,6 @@ Gerd Zellweger, VMware Research</description>
 <p>Ruslan Nikolaev, Pennsylvania State University</p>
 <p>Pierre Olivier, University of Manchester</p>
 <p>Gerd Zellweger, VMware Research</p>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>Program</title>
-      <link>https://kisv-workshop.github.io/program/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kisv-workshop.github.io/program/</guid>
-      <description>TBD</description>
-      <content:encoded><![CDATA[<style>
-.box {
-    border-radius: 0.5em;
-    background-color: #f0f0f0;
-}
-
-.dark .box {
-    border-radius: 0.5em;
-    background-color: #202325;
-}
-
-.important {
-    text-align: center;
-    padding-top: 1em;
-    padding-bottom: 1em;
-    line-height: 120%;
-    font-size: 100%;
-    margin: 0 auto;
-}
-
-.width50 {
-    width: 90%;
-}
-</style>
-<p>TBD</p>
 ]]></content:encoded>
     </item>
     

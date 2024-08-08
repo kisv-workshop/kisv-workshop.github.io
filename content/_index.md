@@ -129,3 +129,19 @@ Registration is handled via [SOSP'2024](https://sigops.org/s/conferences/sosp/20
 The workshop will be a highly interactive event with an agenda designed to
 promote focused and lively discussions. The set of accepted papers will be made
 available to registered attendees in advance of the workshop.
+
+## Organizers 
+
+**Anton Burtsev**, University of Utah
+
+**Vikram Narayanan**, University of Utah
+
+### Program Committee
+
+**Amit Levy** Princeton University
+**Pierre Olivier** University of Manchester
+**Nathan Dautenhahn** Rice University
+**Gerd Zellweger** Feldera
+**Nathan Burow** MIT Lincoln Laboratory
+
+

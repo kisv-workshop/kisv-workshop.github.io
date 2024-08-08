@@ -12,10 +12,12 @@ ShowBreadCrumbs: false
 
 ## Program Committee
 
-* **Amit Levy** Princeton University
-* **Pierre Olivier** University of Manchester
-* **Nathan Dautenhahn** Rice University
-* **Gerd Zellweger** Feldera
-* **Nathan Burow** MIT Lincoln Laboratory
+* **Nathan Burow**, MIT Lincoln Laboratory
 
+* **Nathan Dautenhahn**, Rice University
 
+* **Amit Levy**, Princeton University
+
+* **Pierre Olivier**, University of Manchester
+
+* **Gerd Zellweger**, Feldera

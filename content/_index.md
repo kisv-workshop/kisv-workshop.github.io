@@ -150,4 +150,4 @@ available to registered attendees in advance of the workshop.
 
 ## Previous years
 
-[2023](https://kisv-workshop.github.io/archive/2023/)
+[2023 CFP & Program](https://kisv-workshop.github.io/archive/2023/)

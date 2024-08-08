@@ -6,16 +6,16 @@ ShowReadingTime: false
 ShowBreadCrumbs: false
 ---
 
-**Anton Burtsev**, University of Utah
+* **Anton Burtsev**, University of Utah
 
-**Vikram Narayanan**
+* **Vikram Narayanan**
 
 ## Program Committee
 
-**Amit Levy** Princeton University
-**Pierre Olivier** University of Manchester
-**Nathan Dautenhahn** Rice University
-**Gerd Zellweger** Feldera
-**Nathan Burow** MIT Lincoln Laboratory
+* **Amit Levy** Princeton University
+* **Pierre Olivier** University of Manchester
+* **Nathan Dautenhahn** Rice University
+* **Gerd Zellweger** Feldera
+* **Nathan Burow** MIT Lincoln Laboratory
 
 

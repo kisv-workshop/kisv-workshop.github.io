@@ -49,31 +49,13 @@ Gerd Zellweger, Feldera</description>
     </item>
     
     <item>
-      <title>Organizers (2023)</title>
-      <link>https://kisv-workshop.github.io/archive/2023/organizers/</link>
+      <title>Previous years</title>
+      <link>https://kisv-workshop.github.io/archive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kisv-workshop.github.io/archive/2023/organizers/</guid>
-      <description>Anton Burtsev, University of Utah
-Vikram Narayanan, University of Utah
-Program Committee Nathan Burow, MIT Lincoln Laboratory
-Nathan Dautenhahn, Rice University
-Trent Jaeger, Pennsylvania State University
-Shravan Narayan, University of Texas, Austin
-Ruslan Nikolaev, Pennsylvania State University
-Pierre Olivier, University of Manchester
-Gerd Zellweger, VMware Research</description>
-      <content:encoded><![CDATA[<p><strong>Anton Burtsev</strong>, University of Utah</p>
-<p><strong>Vikram Narayanan</strong>, University of Utah</p>
-<h2 id="program-committee">Program Committee</h2>
-<p>Nathan Burow, MIT Lincoln Laboratory</p>
-<p>Nathan Dautenhahn, Rice University</p>
-<p>Trent Jaeger, Pennsylvania State University</p>
-<p>Shravan Narayan, University of Texas, Austin</p>
-<p>Ruslan Nikolaev, Pennsylvania State University</p>
-<p>Pierre Olivier, University of Manchester</p>
-<p>Gerd Zellweger, VMware Research</p>
-]]></content:encoded>
+      <guid>https://kisv-workshop.github.io/archive/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
@@ -108,102 +90,6 @@ Gerd Zellweger, VMware Research</description>
 }
 </style>
 <p>TBD</p>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>Program (2023)</title>
-      <link>https://kisv-workshop.github.io/archive/2023/program/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kisv-workshop.github.io/archive/2023/program/</guid>
-      <description>The complete workshop proceedings are available in the ACM DL. October 23, 2023
-08:30 - 08:35 Opening remarks 08:35 - 09:35 Keynote by Chris Hawblitzel (Microsoft). Verus: Fast Formal Verification of Rust Programs Using Ownership and Automated Theorem Proving. Session 1: Operating Systems
-09:35 - 09:55 Leveraging Rust for Lightweight OS Correctness. Ramla Ijaz (Yale University), Kevin Boos (Theseus Systems), Lin Zhong (Yale University)
-09:55 - 10:15 Atmosphere: Towards Practical Verified Kernels in Rust.</description>
-      <content:encoded><![CDATA[<style>
-.box {
-    border-radius: 0.5em;
-    background-color: #f0f0f0;
-}
-
-.dark .box {
-    border-radius: 0.5em;
-    background-color: #202325;
-}
-
-.important {
-    text-align: center;
-    padding-top: 1em;
-    padding-bottom: 1em;
-    line-height: 120%;
-    font-size: 100%;
-    margin: 0 auto;
-}
-
-.width50 {
-    width: 90%;
-}
-</style>
-<div class="important box width50">
-The complete <b><a href="https://dl.acm.org/doi/proceedings/10.1145/3625275">
-workshop
-proceedings</a></b> are available
-in the ACM DL.
-</div>
-<p><em>October 23, 2023</em></p>
-<ul>
-<li><strong>08:30 - 08:35</strong>    Opening remarks</li>
-<li><strong>08:35 - 09:35</strong>    Keynote by Chris Hawblitzel
-(Microsoft). <strong>Verus: Fast Formal Verification of Rust Programs Using
-Ownership and Automated Theorem Proving.</strong></li>
-</ul>
-<p><strong><p style="text-align: center;">Session 1: Operating Systems</p></strong></p>
-<ul>
-<li>
-<p><strong>09:35 - 09:55</strong>    <strong>Leveraging Rust for Lightweight OS
-Correctness.</strong> Ramla Ijaz (Yale University), Kevin Boos (Theseus Systems),
-Lin Zhong (Yale University)</p>
-</li>
-<li>
-<p><strong>09:55 - 10:15</strong>    <strong>Atmosphere: Towards Practical
-Verified Kernels in Rust.</strong> Xiangdong Chen (University of Utah), Zhaofeng Li
-(University of Utah), Vikram Narayanan (University of Utah), Anton Burtsev
-(University of Utah)</p>
-</li>
-</ul>
-<p><strong><p style="text-align: center;">10:15 - 10:40    Coffee break</p></strong></p>
-<p><strong><p style="text-align: center;">Session 2: Hardware</p></strong></p>
-<ul>
-<li>
-<p><strong>10:40 - 11:00</strong>    <strong>Specifying the de-facto OS of a
-production SoC.</strong> Ben Fiedler (ETH Zurich), Roman Meier (ETH Zurich), Jasmin
-Schult (ETH   Zurich), Daniel Schwyn (ETH Zurich), Timothy Roscoe (ETH
-Zurich)</p>
-</li>
-<li>
-<p><strong>11:00 - 11:20</strong>    <strong>The K2 Architecture for Modular
-Hardware Security Modules.</strong> Anish Athalye (MIT), Frans Kaashoek (MIT),
-Nickolai Zeldovich (MIT), Joseph  Tassarotti (New York University)</p>
-</li>
-</ul>
-<p><strong><p style="text-align: center;">Session 3: Secure Interfaces</p></strong></p>
-<ul>
-<li>
-<p><strong>11:20 - 11:40</strong>    <strong>CIVSCOPE: Analyzing Potential
-Memory Corruption Bugs in Compartment Interfaces by Establishing Lower Bound
-and Upper Bound.</strong> Yi Chien (Rice University), Vlad-Andrei Bădoiu (University
-Politehnica of Bucharest), Yudi Yang (Rice University), Yuqian Huo (Rice
-University), Kelly Kaoudis (Trail of Bits), Hugo Lefeuvre (The University of
-Manchester), Pierre Olivier (The University of Manchester), Nathan Dautenhahn
-(Rice University)</p>
-</li>
-<li>
-<p><strong>11:40 - 12:00</strong>    <strong>Encapsulated Functions: Fortifying
-Rust’s FFI in Embedded Systems.</strong> Leon Schuermann (Princeton University),
-Amit Levy (Princeton University), Arun Thomas (zeroRISC Inc.)</p>
-</li>
-</ul>
 ]]></content:encoded>
     </item>
     

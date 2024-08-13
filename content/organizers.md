@@ -20,4 +20,6 @@ ShowBreadCrumbs: false
 
 * **Pierre Olivier**, University of Manchester
 
+* **Dan Williams** Virginia Tech
+
 * **Gerd Zellweger**, Feldera

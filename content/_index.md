@@ -138,15 +138,18 @@ available to registered attendees in advance of the workshop.
 
 ### Program Committee
 
+* **Nathan Burow** MIT Lincoln Laboratory
+
+* **Nathan Dautenhahn** Rice University
+
 * **Amit Levy** Princeton University
 
 * **Pierre Olivier** University of Manchester
 
-* **Nathan Dautenhahn** Rice University
+* **Dan Williams** Virginia Tech
 
 * **Gerd Zellweger** Feldera
 
-* **Nathan Burow** MIT Lincoln Laboratory
 
 ## Previous years
 

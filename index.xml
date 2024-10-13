@@ -86,7 +86,11 @@ Gerd Zellweger, VMware Research</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kisv-workshop.github.io/program/</guid>
-      <description>TBD</description>
+      <description>November 3, 2024
+13:00 - 13:05	Opening remarks
+13:05 - 14:10	Keynote 1 by Deian Stefan (UCSD). Verus Using light-weight verification to secure the WebAssembly sandbox
+14:10 - 14:30	Robust and Immediate Resource Reclamation with M³. Viktor Reusch (Barkhausen Institut), Nils Asmussen (Barkhausen Institut), Michael Roitzsch (Barkhausen Institut)
+14:30 - 14:50	Kicking the Firmware Out of the TCB with the Miralis Virtual Firmware Monitor. Charly Castes (EPFL), Neelu S. Kalani (EPFL), Sofia Saltovskaia (EPFL), Noé Terrier (EPFL), Abel Vexina Wilkinson (EPFL), Edouard Bugnion (EPFL)</description>
       <content:encoded><![CDATA[<style>
 .box {
     border-radius: 0.5em;
@@ -111,7 +115,43 @@ Gerd Zellweger, VMware Research</description>
     width: 90%;
 }
 </style>
-<p>TBD</p>
+<p><em>November 3, 2024</em></p>
+<ul>
+<li>
+<p><strong>13:00 - 13:05</strong>	Opening remarks</p>
+</li>
+<li>
+<p><strong>13:05 - 14:10</strong>	<strong>Keynote 1</strong> by Deian Stefan (UCSD). <strong>Verus Using
+light-weight verification to secure the WebAssembly sandbox</strong></p>
+</li>
+<li>
+<p><strong>14:10 - 14:30</strong>	<strong>Robust and Immediate Resource Reclamation with M³.</strong>
+Viktor Reusch (Barkhausen Institut), Nils Asmussen (Barkhausen Institut),
+Michael Roitzsch (Barkhausen Institut)</p>
+</li>
+<li>
+<p><strong>14:30 - 14:50</strong>	<strong>Kicking the Firmware Out of the TCB with the Miralis
+Virtual Firmware Monitor.</strong> Charly Castes (EPFL), Neelu S. Kalani (EPFL),
+Sofia Saltovskaia (EPFL), Noé Terrier (EPFL), Abel Vexina Wilkinson (EPFL),
+Edouard Bugnion (EPFL)</p>
+</li>
+<li>
+<p><strong>14:50 - 15:10</strong> 	<strong>Bridge: A Leak-Free Hardware-Software Architecture
+for Parallel Embedded Systems.</strong> Gongqi Huang (Princeton University), Leon
+Schuermann (Princeton University), Amit Levy (Princeton University)</p>
+</li>
+<li>
+<p><strong>15:10 - 15:30</strong> 	<strong>Veld: Verified Linux Drivers.</strong> Xiangdong Chen
+(University of Utah), Zhaofeng Li (University of Utah), Jerry Zhang
+(University of Utah), Anton Burtsev (University of Utah)</p>
+</li>
+</ul>
+<p><strong><p style="text-align: center;">15:30 - 16:00	Coffee break (Overlaps with SOSP)</p></strong></p>
+<ul>
+<li><strong>16:00 - 17:00</strong> 	<strong>Keynote 2</strong> by Anish Athalye (MIT). <strong>Formally
+Verifying Secure and Leakage-Free Systems: From Application
+Specification to Circuit-Level Implementation.</strong></li>
+</ul>
 ]]></content:encoded>
     </item>
     

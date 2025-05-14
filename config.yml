@@ -8,6 +8,11 @@ params:
   ShowCodeCopyButtons: true
   ShowBreadCrumbs: true
   disableSpecial1stPost: true
+  disableMainSections: true
+
+  # Set which sections are blog posts
+  mainSections:
+    - posts
 
 menu:
   main:
@@ -15,10 +20,6 @@ menu:
       name: Home
       url: /
       weight: 10
-    - identifier: organizers
-      name: Organizers
-      url: /organizers
-      weight: 20
     - identifier: program
       name: Program
       url: /program

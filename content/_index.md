@@ -1,18 +1,21 @@
 ---
+build:
+    list: never
+    publishResources: false
+    render: never
+
 title: Kernel Security, Isolation, and Verification (KISV) Workshop
 ---
 
-# 2nd Workshop on Kernel Isolation, Safety and Verification (KISV 2024)
+# 3rd Workshop on Kernel Isolation, Safety and Verification (KISV 2025)
 
 <style>
 .box {
     border-radius: 0.5em;
-    background-color: #f0f0f0;
 }
 
 .dark .box {
     border-radius: 0.5em;
-    background-color: #202325;
 }
 
 .important {
@@ -153,4 +156,6 @@ available to registered attendees in advance of the workshop.
 
 ## Previous years
 
-[2023 CFP & Program](https://kisv-workshop.github.io/archive/2023/)
+
+[2024](https://kisv-workshop.github.io/archive/2024/)
+[2023](https://kisv-workshop.github.io/archive/2023/)

@@ -1,6 +1,13 @@
-# KISV workshop
+# KISV Workshop
 
-## Building
+Install [Nix](https://github.com/DeterminateSystems/nix-installer), then enter the shell with:
 
-Run `hugo` to build the site.
-Run `hugo server` to start a local server with hot-reloading.
+```bash
+nix develop
+```
+
+To start a local server for previewing, run:
+
+```bash
+just serve
+```

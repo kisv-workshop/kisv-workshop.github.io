@@ -2,20 +2,20 @@
 build:
     list: never
     publishResources: false
-    ShowBreadCrumbs: false
     render: never
-title: 1st Workshop on Kernel Isolation, Safety and Verification (KISV 2023)
+
+title: 2nd Workshop on Kernel Security, Isolation, and Verification (KISV 2024)
 ---
+
+# 2nd Workshop on Kernel Isolation, Safety and Verification (KISV 2024)
 
 <style>
 .box {
     border-radius: 0.5em;
-    background-color: #f0f0f0;
 }
 
 .dark .box {
     border-radius: 0.5em;
-    background-color: #202325;
 }
 
 .important {
@@ -33,10 +33,10 @@ title: 1st Workshop on Kernel Isolation, Safety and Verification (KISV 2023)
 </style>
 
 <div class="important box width50">
-    <b>October 23, 2023<br>
-    Koblenz, Germany<br><br></b>
+    <b>November 3, 2024<br>
+    Austin, Texas, USA<br><br></b>
     In conjunction with the<br>
-    <a href="https://sosp2023.mpi-sws.org/">29th ACM Symposium on Operating Systems Principles (SOSP '23)</a>
+    <a href="https://sigops.org/s/conferences/sosp/2024/">30th ACM Symposium on Operating Systems Principles (SOSP '24)</a>
 </div>
 
 This workshop aims to bring together researchers and developers from the field of
@@ -108,7 +108,7 @@ The bibliography does not count towards the page limit. The page limit will be
 strictly enforced. They will be reviewed by the workshop program committee and
 designated external reviewers. Papers will be evaluated based on technical
 quality, originality, relevance, and presentation. **The submission website is**:
-[https://kisv23.hotcrp.com](https://kisv23.hotcrp.com).
+[https://kisv24.hotcrp.com](https://kisv24.hotcrp.com).
 
 By default, accepted papers will be published electronically in the ACM Digital
 Library. The authors of accepted papers to be included in the ACM Digital
@@ -118,19 +118,42 @@ conference publication.
 
 ## Important dates
 
-The workshop is collocated with [SOSP'2023](https://sosp2023.mpi-sws.org/).
-Registration is handled via [SOSP'2023](https://sosp2023.mpi-sws.org/) website.
+The workshop is collocated with [SOSP'2024](https://sigops.org/s/conferences/sosp/2024/).
+Registration is handled via [SOSP'2024](https://sigops.org/s/conferences/sosp/2024/) website.
 
-* Paper submission deadline: ~~**August 1, 2023**~~ **August 16, 2023** (AoE)
+* Paper submission deadline: **August 16, 2024** (AoE)
 
-* Notification of acceptance: ~~**September 1, 2023**~~ **September 15, 2023**
+* Notification of acceptance: **September 16, 2024**
 
-* Camera-ready papers due: ~~**October 1, 2023**~~ **October 8, 2023**
+* Camera-ready papers due: **October 4, 2024**
 
-* Workshop date: **October 23, 2023**
+* Workshop date: **November 3, 2024**
 
 The workshop will be a highly interactive event with an agenda designed to
 promote focused and lively discussions. The set of accepted papers will be made
-available to registered attendees in advance of the workshop. 
+available to registered attendees in advance of the workshop.
+
+## Organizers 
+
+* **Anton Burtsev**, University of Utah
+
+* **Vikram Narayanan**, University of Utah
+
+### Program Committee
+
+* **Nathan Burow** MIT Lincoln Laboratory
+
+* **Nathan Dautenhahn** Rice University
+
+* **Amit Levy** Princeton University
+
+* **Pierre Olivier** University of Manchester
+
+* **Dan Williams** Virginia Tech
+
+* **Gerd Zellweger** Feldera
 
 
+## Previous years
+
+[2023 CFP & Program](https://kisv-workshop.github.io/archive/2023/)

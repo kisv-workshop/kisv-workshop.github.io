@@ -108,7 +108,7 @@ The bibliography does not count towards the page limit. The page limit will be
 strictly enforced. They will be reviewed by the workshop program committee and
 designated external reviewers. Papers will be evaluated based on technical
 quality, originality, relevance, and presentation. **The submission website is**:
-[https://kisv24.hotcrp.com](https://kisv24.hotcrp.com).
+[https://kisv25.hotcrp.com](https://kisv25.hotcrp.com).
 
 By default, accepted papers will be published electronically in the ACM Digital
 Library. The authors of accepted papers to be included in the ACM Digital
@@ -118,16 +118,16 @@ conference publication.
 
 ## Important dates
 
-The workshop is collocated with [SOSP'2024](https://sigops.org/s/conferences/sosp/2024/).
-Registration is handled via [SOSP'2024](https://sigops.org/s/conferences/sosp/2024/) website.
+The workshop is collocated with [SOSP'2025](https://sigops.org/s/conferences/sosp/2025/).
+Registration is handled via [SOSP'2025](https://sigops.org/s/conferences/sosp/2025/) website.
 
-* Paper submission deadline: **August 16, 2024** (AoE)
+* Paper submission deadline: **August 1, 2025** (AoE)
 
-* Notification of acceptance: **September 16, 2024**
+* Notification of acceptance: **August 20, 2025** (but before SOSP early registration deadline)
 
-* Camera-ready papers due: **October 4, 2024**
+* Camera-ready papers due: **September 13, 2025**
 
-* Workshop date: **November 3, 2024**
+* Workshop date: **October 13, 2025**
 
 The workshop will be a highly interactive event with an agenda designed to
 promote focused and lively discussions. The set of accepted papers will be made
@@ -137,22 +137,11 @@ available to registered attendees in advance of the workshop.
 
 * **Anton Burtsev**, University of Utah
 
-* **Vikram Narayanan**, University of Utah
+* **Pierre Olivier** University of Manchester
 
 ### Program Committee
 
-* **Nathan Burow** MIT Lincoln Laboratory
-
-* **Nathan Dautenhahn** Rice University
-
-* **Amit Levy** Princeton University
-
-* **Pierre Olivier** University of Manchester
-
-* **Dan Williams** Virginia Tech
-
-* **Gerd Zellweger** Feldera
-
+TBD
 
 ## Previous years
 

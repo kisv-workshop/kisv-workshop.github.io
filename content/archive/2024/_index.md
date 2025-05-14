@@ -7,7 +7,6 @@ build:
 title: 2nd Workshop on Kernel Security, Isolation, and Verification (KISV 2024)
 ---
 
-# 2nd Workshop on Kernel Isolation, Safety and Verification (KISV 2024)
 
 <style>
 .box {

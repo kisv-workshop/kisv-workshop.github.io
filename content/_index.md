@@ -28,15 +28,15 @@ title: Kernel Security, Isolation, and Verification (KISV) Workshop
 }
 
 .width50 {
-    width: 70%;
+    width: 80%;
 }
 </style>
 
 <div class="important box width50">
-    <b>November 3, 2024<br>
-    Austin, Texas, USA<br><br></b>
+    <b>October 13, 2025<br>
+    Seoul, Republic of Korea<br><br></b>
     In conjunction with the<br>
-    <a href="https://sigops.org/s/conferences/sosp/2024/">30th ACM Symposium on Operating Systems Principles (SOSP '24)</a>
+    <a href="https://sigops.org/s/conferences/sosp/2025/">31st ACM Symposium on Operating Systems Principles (SOSP '25)</a>
 </div>
 
 This workshop aims to bring together researchers and developers from the field of

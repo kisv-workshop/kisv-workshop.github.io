@@ -8,7 +8,7 @@ ShowBreadCrumbs: false
 
 * **Anton Burtsev**, University of Utah
 
-* **Vikram Narayanan**
+* **Vikram Narayanan**, Palo Alto Networks
 
 ## Program Committee
 

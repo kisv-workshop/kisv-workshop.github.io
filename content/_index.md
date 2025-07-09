@@ -121,9 +121,9 @@ conference publication.
 The workshop is collocated with [SOSP'2025](https://sigops.org/s/conferences/sosp/2025/).
 Registration is handled via [SOSP'2025](https://sigops.org/s/conferences/sosp/2025/) website.
 
-* Paper submission deadline: **August 1, 2025** (AoE)
+* Paper submission deadline: ~~**August 1, 2025**~~ **August 8, 2025** (AoE)
 
-* Notification of acceptance: **August 20, 2025** (but before SOSP early registration deadline)
+* Notification of acceptance: ~~**August 20, 2025**~~ **August 29, 2025** (note, early SOSP registration is **September 1, 2025**)
 
 * Camera-ready papers due: **September 13, 2025**
 

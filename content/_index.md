@@ -146,6 +146,7 @@ available to registered attendees in advance of the workshop.
 * **Amit Levy**, Princeton University
 * **Shih-Wei Li**, National Taiwan University
 * **Ruslan Nikolayev**, Pennsylvania State University
+* **Leon Schuermann**, Princeton University
 * **Anjo Vahldiek-Oberwagner**, Intel Labs
 * **Dan Williams**, Virginia Tech
 

@@ -141,10 +141,15 @@ available to registered attendees in advance of the workshop.
 
 ### Program Committee
 
-TBD
+* **Kevin Boos**, Futurewei, Theseus Systems
+* **Nathan Burow**, MIT Lincoln Labs
+* **Amit Levy**, Princeton University
+* **Shih-Wei Li**, National Taiwan University
+* **Ruslan Nikolayev**, Pennsylvania State University
+* **Anjo Vahldiek-Oberwagner**, Intel Labs
+* **Dan Williams**, Virginia Tech
 
 ## Previous years
-
 
 [2024](https://kisv-workshop.github.io/archive/2024/)
 [2023](https://kisv-workshop.github.io/archive/2023/)

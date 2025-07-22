@@ -147,7 +147,7 @@ available to registered attendees in advance of the workshop.
 * **Nathan Burow**, MIT Lincoln Labs
 * **Amit Levy**, Princeton University
 * **Shih-Wei Li**, National Taiwan University
-* **Ruslan Nikolayev**, Pennsylvania State University
+* **Ruslan Nikolaev**, Pennsylvania State University
 * **Leon Schuermann**, Princeton University
 * **Anjo Vahldiek-Oberwagner**, Intel Labs
 * **Dan Williams**, Virginia Tech

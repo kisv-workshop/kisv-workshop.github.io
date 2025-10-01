@@ -7,7 +7,10 @@
 <meta name="robots" content="index, follow">
 <title>Program | KISV Workshop</title>
 <meta name="keywords" content="">
-<meta name="description" content="TBD">
+<meta name="description" content="October 13, 2025
+9:00 - 9:05	Opening remarks Anton Burtsev and Pierre Olivier
+9:05 - 10:05	Keynote 1: Why change the kernel when you have seL4? Gernot Heiser (University of New South Wales)
+Abstract Breaking up monetlithic kernels (which I take means Linux) is no doubt a commendable exercise. Recent additions to computer architectures that provide intra-address-space protection are an enabler of this and come with relatively low overhead.">
 <meta name="author" content="">
 <link rel="canonical" href="https://kisv-workshop.github.io/program/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.6a98292fb8fa8cf0f3ba4042d4b75515c04267550f3ad49ff6271b5af9562443.css" integrity="sha256-apgpL7j6jPDzukBC1LdVFcBCZ1UPOtSf9icbWvlWJEM=" rel="preload stylesheet" as="style">
@@ -57,7 +60,10 @@
 
     </style>
 </noscript><meta property="og:title" content="Program" />
-<meta property="og:description" content="TBD" />
+<meta property="og:description" content="October 13, 2025
+9:00 - 9:05	Opening remarks Anton Burtsev and Pierre Olivier
+9:05 - 10:05	Keynote 1: Why change the kernel when you have seL4? Gernot Heiser (University of New South Wales)
+Abstract Breaking up monetlithic kernels (which I take means Linux) is no doubt a commendable exercise. Recent additions to computer architectures that provide intra-address-space protection are an enabler of this and come with relatively low overhead." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://kisv-workshop.github.io/program/" /><meta property="article:section" content="" />
 
@@ -65,7 +71,10 @@
 
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Program"/>
-<meta name="twitter:description" content="TBD"/>
+<meta name="twitter:description" content="October 13, 2025
+9:00 - 9:05	Opening remarks Anton Burtsev and Pierre Olivier
+9:05 - 10:05	Keynote 1: Why change the kernel when you have seL4? Gernot Heiser (University of New South Wales)
+Abstract Breaking up monetlithic kernels (which I take means Linux) is no doubt a commendable exercise. Recent additions to computer architectures that provide intra-address-space protection are an enabler of this and come with relatively low overhead."/>
 
 
 <script type="application/ld+json">
@@ -88,12 +97,12 @@
   "@type": "BlogPosting",
   "headline": "Program",
   "name": "Program",
-  "description": "TBD",
+  "description": "October 13, 2025\n9:00 - 9:05\tOpening remarks Anton Burtsev and Pierre Olivier\n9:05 - 10:05\tKeynote 1: Why change the kernel when you have seL4? Gernot Heiser (University of New South Wales)\nAbstract Breaking up monetlithic kernels (which I take means Linux) is no doubt a commendable exercise. Recent additions to computer architectures that provide intra-address-space protection are an enabler of this and come with relatively low overhead.",
   "keywords": [
     
   ],
-  "articleBody": " TBD\n",
-  "wordCount" : "1",
+  "articleBody": " October 13, 2025\n9:00 - 9:05\tOpening remarks Anton Burtsev and Pierre Olivier\n9:05 - 10:05\tKeynote 1: Why change the kernel when you have seL4? Gernot Heiser (University of New South Wales)\nAbstract Breaking up monetlithic kernels (which I take means Linux) is no doubt a commendable exercise. Recent additions to computer architectures that provide intra-address-space protection are an enabler of this and come with relatively low overhead.\nWhile interesting for exploring the design space, these mechanisms have drawbacks, especially as using them limits a design to recent processors. Furthermore, they are not standardised across architectures, making it more difficult to keep kernel code mostly portable.\nBut are these really necessary? I argue they are not, and the combination of good old dual-mode execution paired with page-based virtual memory is all you need — as long as you pick the right design. And the right design got to be based on a microkernel, or rather The Microkernel, i.e. seL4.\nThere are never-dying claims that this leads to poor design. Our experience shows otherwise: kernel overheads are in the noise with a highly-tuned microkernel and a good design.\nConsequently, my recommendation is to avoid dealing with fancy hardware extensions, and (a) de-privilege the (Linux) kernel by running it on seL4 and (b) modularise the resulting user-mode code.\n10:05am - 10:25am OS Kernel Isolation for Context-violation Bugs. Yosuke Tanimoto, Hiroshi Yamada (TUAT)\n10:25am - 10:45am reInstruct: Toward OS-aware CPU microcode reprogramming. Yubo Wang, Ruslan Nikolaev (The Pennsylvania State University); Binoy Ravindran (Virginia Tech)\n10:45am - 11:15am\tCoffee break\n11:15am - 12:15pm Keynote 2: CHERI: Opening a new design space for operating systems. David Chisnall (University of Cambridge) Abstract The CHERI project began 15 years ago, with a goal of enabling fine-grained compartmentalisation within a process. It rapidly became clear that fine-grained compartmentalisation required safe sharing, and the only way to do sharing safely was to use existing programming-language abstractions to represent the model. This observation made us extend CHERI to be able to support object-granularity memory safety within a single security context, thereby enabling safe sharing of objects, not pages.CHERI has since graduated from being purely a research project. RISC-V International is finalising the specification for a CHERI RISC-V base architecture and multiple companies have announced CHERI chips or IP cores.\nThe invention of the memory-management unit (MMU) allows process isolation and virtual machines, but also led to things like cheap copy-on-write mechanisms, zygote models for fast process creation, shared memory abstractions and a large space of operating-system design choices to explore. New points in this space are still being discovered and explored today. CHERI has far less history, yet provides the same potentials. This talk will discuss two approaches to CHERI adoption in OS design: CheriBSD, which provides a fully backwards-compatible memory-safe POSIX system, and CHERIoT RTOS, which is a clean-slate design showing how CHERI enables new OS design patterns.\n12:15pm - 12:35pm Compartment, Crash, and Continue: Toward Resilient Monolithic OS Kernels. Shih-Wei Li, Shih-Hung Tang, Yi-Lin Hsu (National Taiwan University)\n12:35pm - 12:55pm Joyride: Rethinking Linux?s network stack design for better performance, security, and reliability. Yanlin Du, Ruslan Nikolaev (The Pennsylvania State University)\n",
+  "wordCount" : "524",
   "inLanguage": "en",
   "datePublished": "0001-01-01T00:00:00Z",
   "dateModified": "0001-01-01T00:00:00Z",
@@ -207,7 +216,85 @@
     width: 90%;
 }
 </style>
-<p>TBD</p>
+<p><em>October 13, 2025</em></p>
+<ul>
+<li>
+<p><strong>9:00 - 9:05</strong>	<strong>Opening remarks</strong> Anton Burtsev and Pierre Olivier</p>
+</li>
+<li>
+<p><strong>9:05 - 10:05</strong>	<strong>Keynote 1: Why change the kernel when you have seL4?</strong>
+Gernot Heiser (University of New South Wales)</p>
+</li>
+</ul>
+<p><span style="font-size:90%"><strong>Abstract</strong> Breaking up monetlithic kernels (which
+I take means Linux) is no doubt a commendable exercise. Recent additions to
+computer architectures that provide intra-address-space protection are an
+enabler of this and come with relatively low overhead.</p>
+<p><span style="font-size:90%"> While interesting for exploring the design space,
+these mechanisms have drawbacks, especially as using them limits a design to
+recent processors.  Furthermore, they are not standardised across
+architectures, making it more difficult to keep kernel code mostly portable.</p>
+<p><span style="font-size:90%">But are these really necessary?  I argue they are
+not, and the combination of good old dual-mode execution paired with page-based
+virtual memory is all you need &mdash;  as long as you pick the right design. And
+the right design got to be based on a microkernel, or rather The Microkernel,
+i.e. seL4.</p>
+<p><span style="font-size:90%">There are never-dying claims that this leads to
+poor design. Our experience shows otherwise: kernel overheads are in the noise
+with a highly-tuned microkernel and a good design.</p>
+<p><span style="font-size:90%">Consequently, my recommendation is to avoid dealing
+with fancy hardware extensions, and (a) de-privilege the (Linux) kernel by
+running it on seL4 and (b) modularise the resulting user-mode code.</p>
+<ul>
+<li>
+<p><strong>10:05am - 10:25am</strong> <strong>OS Kernel Isolation for Context-violation Bugs.</strong>
+Yosuke Tanimoto, Hiroshi Yamada (TUAT)</p>
+</li>
+<li>
+<p><strong>10:25am - 10:45am</strong> <strong>reInstruct: Toward OS-aware CPU microcode
+reprogramming.</strong>
+Yubo Wang, Ruslan Nikolaev (The Pennsylvania State University); Binoy Ravindran
+(Virginia Tech)</p>
+</li>
+</ul>
+<p><strong><p style="text-align: center;">10:45am - 11:15am	Coffee break</p></strong></p>
+<ul>
+<li><strong>11:15am - 12:15pm</strong> <strong>Keynote 2: CHERI: Opening a new design space for
+operating systems.</strong> David Chisnall (University of Cambridge)</li>
+</ul>
+<p><span style="font-size:90%"><strong>Abstract</strong> The CHERI project began 15 years ago,
+with a goal of enabling fine-grained compartmentalisation within a process.  It
+rapidly became clear that fine-grained compartmentalisation required safe
+sharing, and the only way to do sharing safely was to use existing
+programming-language abstractions to represent the model.  This observation
+made us extend CHERI to be able to support object-granularity memory safety
+within a single security context, thereby enabling safe sharing of objects, not
+pages.CHERI has since graduated from being purely a research project. RISC-V
+International is finalising the specification for a CHERI RISC-V base
+architecture and multiple companies have announced CHERI chips or IP
+cores.</span></p>
+<p><span style="font-size:90%">The invention of the memory-management unit (MMU)
+allows process isolation and virtual machines, but also led to things like
+cheap copy-on-write mechanisms, zygote models for fast process creation, shared
+memory abstractions and a large space of operating-system design choices to
+explore.  New points in this space are still being discovered and explored
+today. CHERI has far less history, yet provides the same potentials.  This talk
+will discuss two approaches to CHERI adoption in OS design: CheriBSD, which
+provides a fully backwards-compatible memory-safe POSIX system, and CHERIoT
+RTOS, which is a clean-slate design showing how CHERI enables new OS design
+patterns.</span></p>
+<ul>
+<li>
+<p><strong>12:15pm - 12:35pm</strong> <strong>Compartment, Crash, and Continue: Toward Resilient
+Monolithic OS Kernels.</strong> Shih-Wei Li, Shih-Hung Tang, Yi-Lin Hsu (National
+Taiwan University)</p>
+</li>
+<li>
+<p><strong>12:35pm - 12:55pm</strong> <strong>Joyride: Rethinking Linux?s network stack design for
+better performance, security, and reliability.</strong> Yanlin Du, Ruslan Nikolaev
+(The Pennsylvania State University)</p>
+</li>
+</ul>
 
 
   </div>
